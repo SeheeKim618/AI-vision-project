@@ -6,7 +6,9 @@ This repo is designed to be as easy as possible to implement deep learning model
   * VGG-11/16
   * ResNet-18/34/50
 
-## Dataset 
+## YOLOv5
+
+#### Dataset 
 
 The dataset used for training is German Traffic Sign Recognition Benchmark (GTSRB) containing 43 classes of traffic signs. The training set contains 39209 labeled images and the test set contains 12630 unlabelled images.
 
