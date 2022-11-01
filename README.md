@@ -3,8 +3,8 @@ This repo is designed to be as easy as possible to implement deep learning model
 * Real-time Object Detection 
   * YOLOv5
 * Classification on MNIST and CIFAR10/100
-  * VGG11/16
-  * ResNet18/34/50
+  * VGG-11/16
+  * ResNet-18/34/50
 
 
 
