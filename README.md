@@ -12,7 +12,7 @@ The dataset used for training is German Traffic Sign Recognition Benchmark (GTSR
 
 ## Documentation
 You can find the API documentation on the pytorch website: https://pytorch.org/vision/stable/index.html
-                                                           https://pytorch.org/docs/stable/index.html
+                     https://pytorch.org/docs/stable/index.html
 
 
 # Real-time-detection-using-YOLOv5
