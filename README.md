@@ -1,6 +1,6 @@
 # Deep Learning Model Implementation using Pytorch
 This repo is designed to be as easy as possible to implement deep learning models in pytorch running in Google Colab. 
-* Real-time Object Detection 
+* Real-time Vehicle Detection 
   * YOLOv5
 * Classification on MNIST and CIFAR10/100
   * VGG-11/16
@@ -10,7 +10,9 @@ This repo is designed to be as easy as possible to implement deep learning model
 
 ### Dataset 
 
-The dataset used for training is German Traffic Sign Recognition Benchmark (GTSRB) containing 43 classes of traffic signs. The training set contains 39209 labeled images and the test set contains 12630 unlabelled images.
+The dataset used for training is 
+
+<img width="60%" src="https://user-images.githubusercontent.com/76892271/199302043-2e9540c6-e1eb-49eb-a82b-6e7737845265.gif"/>
 
 ## Documentation
 You can find the API documentation on the pytorch website: https://pytorch.org/vision/stable/index.html
