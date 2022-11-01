@@ -12,6 +12,7 @@ This repo is designed to be as easy as possible to implement deep learning model
 
 The dataset used for training is 
 
+### Result 
 <img width="60%" src="https://user-images.githubusercontent.com/76892271/199302043-2e9540c6-e1eb-49eb-a82b-6e7737845265.gif"/>
 
 ## Documentation
