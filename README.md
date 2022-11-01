@@ -1,7 +1,8 @@
 # Deep Learning Model Implementation using Pytorch
 This repo is designed to be as easy as possible to implement deep learning models in pytorch running in Google Colab. 
 * Real-time Vehicle Detection 
-  * YOLOv5
+  * YOLOv5 [[github](https://github.com/ultralytics/yolov5)]
+ 
 * Classification on MNIST and CIFAR10/100
   * CNN [[refer](https://cs231n.github.io/convolutional-networks/)]
   * VGG-11/16 [[paper](https://arxiv.org/pdf/1409.1556v6.pdf)]
