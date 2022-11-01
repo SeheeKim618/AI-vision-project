@@ -1,4 +1,5 @@
 # Deep Learning Model Implementation using Pytorch
+This repo is designed to be as easy as possible to implement of deep learning models in pytorch running in Google Colab. 
 * Real-time Object Detection
 * Classification on MNIST and CIFAR10/100
 
