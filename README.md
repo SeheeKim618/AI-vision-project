@@ -6,7 +6,7 @@ This repo is designed to be as easy as possible to implement deep learning model
   * VGG-11/16
   * ResNet-18/34/50
 
-## YOLOv5
+## Real-time Vehicle Detection using YOLOv5
 
 ### Dataset 
 
@@ -19,9 +19,5 @@ The dataset used for training is
 You can find the API documentation on the pytorch website: https://pytorch.org/vision/stable/index.html
 https://pytorch.org/docs/stable/index.html
 
-
-# Real-time-detection-using-YOLOv5
-
-This repository contains model and training notebook for traffic sign recognition. 
 
 
