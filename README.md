@@ -4,7 +4,7 @@ This repo is designed to be as easy as possible to implement deep learning model
   * YOLOv5
 * Classification on MNIST and CIFAR10/100
   * CNN
-  * VGG-11/16
+  * VGG-11/16 [[Paper](https://arxiv.org/pdf/1409.1556v6.pdf)]
   * ResNet-18/34/50
 
 ## Real-time Vehicle Detection using YOLOv5
