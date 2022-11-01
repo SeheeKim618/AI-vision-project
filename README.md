@@ -1,5 +1,6 @@
 # Deep Learning Model Implementation using Pytorch
-
+* Real-time Object Detection
+* Classification on MNIST and CIFAR10/100
 
 
 
