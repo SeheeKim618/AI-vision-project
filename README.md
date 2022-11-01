@@ -4,7 +4,7 @@ This repo is designed to be as easy as possible to implement deep learning model
   * YOLOv5
 * Classification on MNIST and CIFAR10/100
   * VGG 11/16
-  * ResNet 
+  * ResNet 18/34/50
 
 
 
