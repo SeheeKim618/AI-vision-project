@@ -30,7 +30,7 @@ For inference, you can use your own vehicle dataset.
 <img width="60%" src="https://user-images.githubusercontent.com/76892271/199302043-2e9540c6-e1eb-49eb-a82b-6e7737845265.gif"/>
 <img width="60%" src="https://user-images.githubusercontent.com/76892271/199309422-5a1e43f3-5249-4c09-88cf-801ba789bd72.gif"/>
 
-## AutoEncoder
+## AutoEncoders
 This contains implementations of:
 
 * Standard autoencoder
