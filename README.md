@@ -20,7 +20,7 @@ The code is to train a custom dataset for YOLOv5 and fine-tune a object detectio
 
 ### Dataset 
 
-The dataset used for training is **Vehicles-OpenImages Dataset** in roboflow. [[link](https://public.roboflow.com/object-detection/vehicles-openimages)]
+The dataset used for training here is **Vehicles-OpenImages Dataset** in roboflow. [[link](https://public.roboflow.com/object-detection/vehicles-openimages)]
  <br/>
 For inference, you can use your own vehicle dataset.
 
