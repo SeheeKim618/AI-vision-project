@@ -10,7 +10,7 @@ This repo is designed to be as easy as possible to implement deep learning model
   * GoogleNet [[paper](https://arxiv.org/pdf/1409.4842.pdf)]
   
  * **AutoEncoder on MNIST**
-   * AutoEncoder material in Korean [[youtube](https://www.youtube.com/watch?v=o_peo6U7IRM)]
+   * AutoEncoder study material in Korean [[youtube](https://www.youtube.com/watch?v=o_peo6U7IRM)]
   
  * **Reinforcement learning(A2C) on Atari**
    * material blog [[link](https://ropiens.tistory.com/153)][[link](https://ropiens.tistory.com/163)]
