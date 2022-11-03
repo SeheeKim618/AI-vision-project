@@ -37,9 +37,7 @@ This contains implementations of the following AutoEncoders:
 * Convolutional autoencoder
 
 ### Results on MNIST
-Convolutional autoencoder:
- <br/>
-  <br/>
+
 ![conv_image_80](https://user-images.githubusercontent.com/62004821/199795488-171b0c65-ea53-43f8-8989-eb08095f29e9.png) ![conv_image_90](https://user-images.githubusercontent.com/62004821/199795501-b8cb2afb-43f7-4eed-a2cf-9785abfce732.png) ![KakaoTalk_Photo_2022-11-04-04-16-20](https://user-images.githubusercontent.com/76892271/199814032-f317a132-8f2b-42e4-93d1-a8ddf48c43fd.png)
 
 ## Documentation
