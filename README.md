@@ -21,7 +21,7 @@ This repo is designed to be as easy as possible to implement deep learning model
 
 The dataset used for training is **Vehicles-OpenImages Dataset** in roboflow. [[link](https://public.roboflow.com/object-detection/vehicles-openimages)]
  <br/>
-For the model inference, you can use your own dataset.
+For running inference, you can use your own dataset.
 
 ### Results on real-time video
 <img width="60%" src="https://user-images.githubusercontent.com/76892271/199302043-2e9540c6-e1eb-49eb-a82b-6e7737845265.gif"/>
