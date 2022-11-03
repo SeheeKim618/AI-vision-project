@@ -8,7 +8,7 @@ import torch.nn.functional as F
 import torch.optim as optim
 import torchvision.models as models
 from torch.utils.tensorboard import SummaryWriter
-writer = SummaryWriter("/home/jjunhee98/lab/Nobember/VGGNet/VGGNET16(256,0.1)_5e-4_stepLR_final")
+writer = SummaryWriter("/home/seheekim/Desktop/aiproject/cnn/vggnet/VGGNET16(256,0.1)_5e-4_stepLR_final")
 
 os.environ["CUDA_DEVICE_ORDER"]="PCI_BUS_ID"
 os.environ["CUDA_VISIBLE_DEVICES"]= "9" 
@@ -221,9 +221,6 @@ net.to(device)
 #net = nn.DataParallel(net)
 
 
-
-
-
 criterion = nn.CrossEntropyLoss()
 #optimizer = optim.Adam(net.parameters(),lr=0.01)
 optimizer = optim.SGD(net.parameters(), lr = 0.1, momentum=0.9, weight_decay=5e-4)
@@ -232,6 +229,7 @@ scheduler = optim.lr_scheduler.StepLR(optimizer, step_size=60, gamma=0.1)
 #scheduler = torch.optim.lr_scheduler.CosineAnnealingLR(optimizer, T_max=50)
 #scheduler = torch.optim.lr_scheduler.ExponentialLR(optimizer, gamma=0.9)
 #scheduler = optim.lr_scheduler.LambdaLR(optimizer=optimizer,lr_lambda=lambda epoch: 0.9 ** epoch,last_epoch=-1,verbose=False)
+
 for epoch in range(180):
     running_loss = 0.0
     total = 0
@@ -279,6 +277,7 @@ for epoch in range(180):
     print("\n")
     scheduler.step()        
 
+#infer
 correct = 0
 total = 0
 with torch.no_grad():
