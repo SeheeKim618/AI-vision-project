@@ -5,6 +5,8 @@ This repo is designed to be as easy as possible to implement deep learning model
  
 * **Classification on MNIST and CIFAR10/100**
   * CNN [[refer](https://cs231n.github.io/convolutional-networks/)]
+  * LeNet
+  * AlexNet
   * VGG-11/16 [[paper](https://arxiv.org/pdf/1409.1556v6.pdf)]
   * ResNet-18/34/50 [[paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)]
   * GoogleNet [[paper](https://arxiv.org/pdf/1409.4842.pdf)]
