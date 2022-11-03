@@ -8,7 +8,7 @@ import torch.nn.functional as F
 import torch.optim as optim
 import torchvision.models as models
 from torch.utils.tensorboard import SummaryWriter
-writer = SummaryWriter("/home/jjunhee98/lab/Nobember/AlexNet/AlexNet[0.01,256]_0.01_regular2_transform3_small2_batchnorm4")
+writer = SummaryWriter("/home/seheekim/Desktop/aiproject/cnn/alexnet/AlexNet[0.01,256]_0.01_regular2_transform3_small2_batchnorm4")
 
 os.environ["CUDA_DEVICE_ORDER"]="PCI_BUS_ID"
 os.environ["CUDA_VISIBLE_DEVICES"]= "6" 
@@ -238,6 +238,7 @@ for epoch in range(100):
     print("\n")
     scheduler.step()        
 
+#infer
 correct = 0
 total = 0
 with torch.no_grad():
