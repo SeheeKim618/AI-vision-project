@@ -16,12 +16,13 @@ This repo is designed to be as easy as possible to implement deep learning model
    * Material in Korean [[link](https://ropiens.tistory.com/153)][[link](https://ropiens.tistory.com/163)]
 
 ## Real-time Vehicle Detection using YOLOv5s
+The code is to train a custom dataset for YOLOv5 and fine-tune a object detection model. The model will be ready for real-time object detection.
 
 ### Dataset 
 
 The dataset used for training is **Vehicles-OpenImages Dataset** in roboflow. [[link](https://public.roboflow.com/object-detection/vehicles-openimages)]
  <br/>
-For inference, you can use your own dataset.
+For inference, you can use your own vehicle dataset.
 
 ### Results on real-time video
 <img width="60%" src="https://user-images.githubusercontent.com/76892271/199302043-2e9540c6-e1eb-49eb-a82b-6e7737845265.gif"/>
