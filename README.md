@@ -12,7 +12,7 @@ This repo is designed to be as easy as possible to implement deep learning model
  * **AutoEncoder on MNIST**
    * AutoEncoder study material in Korean [[youtube](https://www.youtube.com/watch?v=o_peo6U7IRM)]
   
- * **Reinforcement learning(A2C) on Atari**
+ * **Reinforcement Learning(A2C) on Atari**
    * Material in Korean [[link](https://ropiens.tistory.com/153)][[link](https://ropiens.tistory.com/163)]
 
 ## Real-time Vehicle Detection using YOLOv5s
