@@ -8,7 +8,7 @@ This repo is designed to be as easy as possible to implement deep learning model
   * VGG-11/16 [[paper](https://arxiv.org/pdf/1409.1556v6.pdf)]
   * ResNet-18/34/50 [[paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)]
 
-## Real-time Vehicle Detection using YOLOv5
+## Real-time Vehicle Detection using YOLOv5s
 
 ### Dataset 
 
