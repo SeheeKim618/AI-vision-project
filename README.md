@@ -31,7 +31,7 @@ For inference, you can use your own vehicle dataset.
 <img width="60%" src="https://user-images.githubusercontent.com/76892271/199309422-5a1e43f3-5249-4c09-88cf-801ba789bd72.gif"/>
 
 ## AutoEncoders
-This contains implementations of:
+This contains implementations of the following AutoEncoders::
 
 * Standard autoencoder
 * Convolutional autoencoder
