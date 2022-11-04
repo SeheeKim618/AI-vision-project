@@ -40,12 +40,12 @@ This contains implementations of the following AutoEncoders:
 
 ![conv_image_80](https://user-images.githubusercontent.com/62004821/199795488-171b0c65-ea53-43f8-8989-eb08095f29e9.png) ![conv_image_90](https://user-images.githubusercontent.com/62004821/199795501-b8cb2afb-43f7-4eed-a2cf-9785abfce732.png) ![KakaoTalk_Photo_2022-11-04-04-16-20](https://user-images.githubusercontent.com/76892271/199814032-f317a132-8f2b-42e4-93d1-a8ddf48c43fd.png)
 
+## Reinforcement Learning(A2C) on Atari
+<img width="60%" src="https://user-images.githubusercontent.com/76892271/200033904-5f7a4a82-cfbe-471b-8774-b64a8f6894eb.gif"/>
+
 ## Documentation
 You can find the API documentation on the pytorch website: https://pytorch.org/vision/stable/index.html
 https://pytorch.org/docs/stable/index.html
-
-## Reinforcement Learning(A2C) on Atari
-<img width="60%" src="https://user-images.githubusercontent.com/76892271/200033904-5f7a4a82-cfbe-471b-8774-b64a8f6894eb.gif"/>
 
 
 
