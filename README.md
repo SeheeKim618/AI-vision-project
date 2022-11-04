@@ -15,7 +15,7 @@ This repo is designed to be as easy as possible to implement deep learning model
    * AutoEncoder study material in Korean [[youtube](https://www.youtube.com/watch?v=o_peo6U7IRM)]
   
  * **Reinforcement Learning(A2C) on Atari**
-   * Material in Korean [[link](https://ropiens.tistory.com/153)][[link](https://ropiens.tistory.com/163)]
+   * Materials in Korean [[link](https://ropiens.tistory.com/153)][[link](https://ropiens.tistory.com/163)]
 
 ## Real-time Vehicle Detection using YOLOv5s
 The code is to train a custom dataset for YOLOv5 and fine-tune a object detection model. The model will be ready for real-time object detection.
