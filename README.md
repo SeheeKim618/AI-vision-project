@@ -44,5 +44,8 @@ This contains implementations of the following AutoEncoders:
 You can find the API documentation on the pytorch website: https://pytorch.org/vision/stable/index.html
 https://pytorch.org/docs/stable/index.html
 
+## Reinforcement Learning(A2C) on Atari
+<img width="60%" src="https://user-images.githubusercontent.com/76892271/200033904-5f7a4a82-cfbe-471b-8774-b64a8f6894eb.gif"/>
+
 
 
